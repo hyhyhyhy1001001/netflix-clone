@@ -1,0 +1,1 @@
+This netflix clone is the second project done
